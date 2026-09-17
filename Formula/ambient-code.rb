@@ -1,8 +1,8 @@
 class AmbientCode < Formula
   desc "Terminal coding agent for the Ambient decentralized-inference network"
   homepage "https://github.com/Xinu7/ambient-cli"
-  url "https://github.com/Xinu7/ambient-cli/releases/download/v0.4.0/ambient-code-0.4.0.tgz"
-  sha256 "99407e7f34a7a0ad8d3381ab897cdbec8485b1e16cff680821b9b66aad9fc26f"
+  url "https://github.com/Xinu7/ambient-cli/releases/download/v0.5.0/ambient-code-0.5.0.tgz"
+  sha256 "6aff7523573495b9b24609bbb93b123ea672721df9e66601f1b07447272ce9e0"
   license "MIT"
 
   depends_on "node"
